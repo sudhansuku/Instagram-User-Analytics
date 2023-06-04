@@ -1,6 +1,7 @@
 # Instagram-User-Analytics
 ### How to Analyze Instagram User Data with SQL Fundamentals | Trainity Project
 VIDEO EXPLAINATION : https://youtu.be/SoNvCad2jhM
+<BR>
 MEDIUM BLOG : https://medium.com/@sudhansukumar2556/how-to-analyze-instagram-user-data-with-sql-fundamentals-trainity-project-b50191b4a5f
 
 This project is focused on the analysis of users who are using instagram paltform.User analysis is the process by which we track how users engage and interact with our digital product (software or mobile application) in an attempt to derive business insights for marketing, product & development teams.This project will answer the problem statements which will help the product team.
